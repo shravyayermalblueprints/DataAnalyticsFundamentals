@@ -1,2 +1,2 @@
-# PythonFundamentals
-Brushing the skills
+# Querying
+
